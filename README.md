@@ -16,13 +16,13 @@
 2. Скачиваем оба файла(`msmpisetup.exe`, `msmpisdk.msi`) и устанавливаем ОБА ФАЙЛА!  
 3. Находим кнопку `Проект`(`Project`) на верхней палитре и переходим в `Свойства`(`Properties`)  
 4. Переходим во вкладку `C/C++` и в ней нажимаем на `Дополнительные каталоги включемых файлов`(`Aditional Include Directories`)
-в данное поле указываем путь да скаченного MPI `C:\Program Files (x86)\Microsoft SDKs\MPI\Include`  
-5. Переходим в `Компоновщик`(`Linker`) -> `Общие`(`General`) -> `Дополнительные каталоги библиотек`(`Aditional library Directories`)  
+в данное поле указываем путь да скаченного MPI `C:\Program Files (x86)\Microsoft SDKs\MPI\Include` 
+5. Переходим в `Компоновщик`(`Linker`) -> `Общие`(`General`) -> `Дополнительные каталоги библиотек`(`Aditional library Directories`)
 и в указаное поле устанавливаем `C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64`  
 6. Переходим в `Компоновщик`(`Linker`) -> `Ввод`(`Input`) -> `Дополнительные зависимости`(`Aditional Dependencies`) и вписываем в них `msmpi.lib`  
 7. После выполненых действий нажимаем `Применить`(`Apply`)
 
-> [!INFORMATION]
+> [!TIP]
 > Если трудно понять что нужно сделать то можно перейти по этой ссылке и посмотреть видео на ютубе по установке  
 Видео тут - [тыкаем](https://www.youtube.com/watch?v=PPEu5KyTx3c)  
 
