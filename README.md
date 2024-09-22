@@ -1,4 +1,4 @@
-### Скоморохов Кирилл | 8 (900) 988-75-37 | Т-Банк | tg = @sk_kiriII  | vk = sk_kirill | Delphi7 | Pascal
+### Скоморохов Кирилл | 8 (900) 988-75-37 | Т-Банк | tg = @sk_kiriII  | vk = sk_kirill | VisualStudio2022 | C++
 
 > Стоимость - 800₽
 
