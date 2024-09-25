@@ -1,6 +1,6 @@
 ### Скоморохов Кирилл | 8 (900) 988-75-37 | Т-Банк | tg = @sk_kiriII  | vk = sk_kirill | VisualStudio2022 | C++
 
-> Стоимость - 800₽
+> **Стоимость - 800₽**
 
 # Задача 9
 
@@ -51,3 +51,9 @@ X0 U X1 = { 8  9  28  7  5  25  12  11  17  4  10  29  18  22  14 }
 Process 2: { 15  26  18  5  24  0  10  1 }
 X2 U X3 = { 15  5  0  10  18  26  24  1  11  27  2  13 }
 ```
+
+# Установка VisualStudio2022 и C++
+
+- [Переходим по ссылке  и скачиваем себе Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/)
+- Заходим в Visual Studio Installer и в модификацию IDE добавляем ***Desktop development with C++***
+- Скачиваем около 9 гигов и все С++ установлен!
